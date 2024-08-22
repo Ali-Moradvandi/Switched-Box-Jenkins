@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Copyright (C) TU Delft All Rights Reserved
-% Written by Ali Moradvandi
+% Written by Ali Moradvandi, Thanks Abdelhak Goudjil for his intial guidance
 % For any correspondence: moradvandi@gmail.com
 
 %% Introduction of code (purpose)
